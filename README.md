@@ -63,7 +63,7 @@ README.md                              <- You're here!
 1. Clone the repo.
 2. Install dependencies:
    ```bash
-   pip install pandas numpy seaborn scikit-learn imbalanced-learn matplotlib
+   pip install -r requirements.txt
    ```
 3. Open the notebooks in Jupyter or VSCode.
 4. Follow along from 01_data_exploration.ipynb to 03_modeling.ipynb.
